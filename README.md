@@ -23,7 +23,7 @@ If time:
 Arduino code - Current issue with Printing to BT
 
 // Libaries
-#include <SD.h>                 // Enables reading from and writing 
+#include <SD.h>                 // Enables reading from and writing
 #include <SPI.h>                //Enables synchronous serial data protocol communication
 #include <Adafruit_Sensor.h>    // Adafruit libary required with hardware
 #include <Adafruit_BNO055.h>   //Arduino libary for the MPU6050 sensor by Adafruit
